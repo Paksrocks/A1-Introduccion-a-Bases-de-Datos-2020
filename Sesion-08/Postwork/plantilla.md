@@ -1,31 +1,25 @@
 # Proyecto Bedu (Data)
 
 ## Título de tu proyecto
-
-<!-- Agrega aquí el título tentativo de tu proyecto. -->
+Data Analysis en Campaña de Marketing Digital
 
 ### ¿Cuál es la necesidad o problema a resolver? 🚀
 
-<!-- Agrega aquí la necesidad o problemática que esperas resolver con tu proyecto y a qué sector
-     beneficiará. -->
+Utilizar nuestro aprendizaje en análisis de datos para implementar mejoras en Campañas de Marketing Digital
 
 ### ¿Cuál es la propuesta para resolver esa necesidad o problema? 💡
 
-<!-- Describe cómo planeas solucionar el problema. Ejemplo: Voy a consultar una base de datos del
-	 sector salud para predecir el número de compradores de un medicamento. Para ello pretendo 
-	 usar Python porque ... --->
+Analizar la base de datos para mejorar el desempeño de una Campaña de Marketing Digital (Aumentar acciones que sí están funcionando, desalentar aquellas que no dan resultados, a través de los datos pronosticar qué productos son los que venderán más y que usuarios es más probable que funcionen)
 
 ### ¿Cómo lo vas a hacer? 📋
 
-<!-- Añade aquí un checklist de tareas y el estado de tus avances, añade tus avances en otras
-	 carpetas y compartelos con el mundo en la sección de avances, no olvides actualizar esta lista
-	 constantemente para organizarte mejor.
-
-	 También te sugerimos el uso de Trello. --->
+*Elegir la base de datos
+*Cargarla en MySQL Workbench
+*Definir las preguntas que nos ayudarán a develar las mejoras en la campaña de Marketing
 
 - [x] Elección de fuente de datos
-- [ ] Definición de la estructura del proyecto
-- [ ] Definición de la estructura de la base de datos
+- [ ] Definición de la estructura del proyecto:
+- [ ] Definición de la estructura de la base de datos: Base de datos relacional
 - [ ] Carga de datos
 
 Agrega más tareas a este *checklist*.
@@ -38,7 +32,7 @@ Agrega más tareas a este *checklist*.
 
      Una vez finalizado el proyecto te sugerimos añadir una nueva sección de Resultados. --->
 
-- [Fuente de datos](link)
+- [Fuente de datos](link)  https://www.kaggle.com/rodsaldanha/arketing-campaign
 - [Estructura del proyecto](link)
 - [Estructura de la base de datos](link)
 - [Primeras consultas](link)
